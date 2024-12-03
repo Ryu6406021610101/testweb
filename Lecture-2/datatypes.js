@@ -3,8 +3,8 @@ const one = 1;
 const str = "Hello World";
 const b = true;
 const employee = {
-    firstName : "Sunisa" , 
-    lastName : "Thakphirom " ,
+    firstName : "Nunnawit" , 
+    lastName : "Soonchan " ,
 };
 
 function sayHello(person) {

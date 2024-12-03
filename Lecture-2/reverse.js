@@ -2,7 +2,7 @@ function reverseString(value) {
     let reversedValue = "" ;
 
     value.split("").forEach((chars) => {
-        reversedValue = char + reversedValue ;
+        reversedValue = chars + reversedValue ;
     });
 
     return reversedValue;

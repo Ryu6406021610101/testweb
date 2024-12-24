@@ -10,15 +10,14 @@ while (index < names.length) {
 }
 
 //for loop
-const names = ['Justin' , 'Sarah' , 'Christopher'];
-
+console.log('--for--');
 for (let index = 0 ; index < names.length ; index++) {
     const name = names[index];
     console.log(name);
 }
 
 // for of
-const names = ['Jutin' , 'Sarah' , 'Christopher'] ;
+console.log('--for of--');
 
 for (let name of names) {
     console.log(name);
